@@ -27,16 +27,18 @@ Utilizou-se:
 
 ## 📂 Estrutura do Projeto
 ### 1. Extração dos Dados
-- Importação dos dados da API da Telecom_X no GitHub, utilizando Python e convertendo-os para um DataFrame do Pandas, facilitando a manipulação. Os dados estão em formato JSON.
+- Importação dos dados da API da Telecom_X no GitHub, utilizando Python e convertendo-os para um DataFrame do Pandas,
+  facilitando a manipulação. Os dados estão em formato JSON.
 - Importação das bibliotecas necessárias.
 
 ### 2. Etapas
-- Os dados foram extraídos com variáveis em inglês. Um dicionário no repositório ajuda na compreensão dos termos.
-- Verificação e tratamento de inconsistências nos dados.
-- Análise exploratória (EDA)
-3. Modelagem com Regressão Logística, Random Forest e XGBoost
-4. Avaliação dos modelos
-5. Interpretação de resultados
+
+1. Os dados foram extraídos com variáveis em inglês. Um dicionário no repositório ajuda na compreensão dos termos.
+2. Verificação e tratamento de inconsistências nos dados.
+3. Análise exploratória (EDA)
+4. Modelagem com Regressão Logística, Random Forest e XGBoost
+5. Avaliação dos modelos
+6. Interpretação de resultados
 
 ### 3. Resultado da Análise  
 | Fator | Risco associado |
