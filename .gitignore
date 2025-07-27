@@ -1,0 +1,14 @@
+*.log
+*.temp
+config.ini
+*.swp
+*.swo
+.txt
+*.csv
+*.xlsx
+*dados/ 
+.env 
+.env.*
+config.py
+*.key
+.venv/
